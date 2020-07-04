@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I am Emmanuel 👋
 
-<!--
-**enwokoma/enwokoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-Emmanuel_Nwokoma-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/emmanuelnwokoma)
+[![twitter badge](https://img.shields.io/badge/twitter-@enwokoma-1da1f2?style=flat&logo=twitter)](https://twitter.com/enwokoma)
+[![instagram badge](https://img.shields.io/badge/instagram-@emmanwokoma-E1306C?style=flat&logo=instagram)](https://instagram.com/emmanwokoma)
+[![website badge](https://img.shields.io/badge/portfolio-enwokoma.github.io-blueviolet?style=flat)](https://enwokoma.github.io)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Engineer living in Abia State, Nigeria.
+
+  💬 Ask me about anything
+
+  🔭 I’m currently working on some mobile and web projects.
+
+  💸 I primarily use PHP and JS for my web development projects.
+
+  💸 I preferably use Flutter for my mobile app development projects.
+
+  💸 For native Android? I primarily use Kotlin and JAVA for native Android app development.
+
+##
+
+⚡ <b>Fun fact</b>: 
+
+    I am a very friendly person. Yes! I am that guy 😜
