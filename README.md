@@ -6,7 +6,7 @@
 [![website badge](https://img.shields.io/badge/portfolio-enwokoma.github.io-blueviolet?style=flat)](https://enwokoma.github.io)
 
 
-I am a Software Engineer living in Abia State, Nigeria.
+I am a Software Developer open to collaborating.
 
   💬 Ask me about anything
 
