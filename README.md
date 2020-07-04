@@ -5,8 +5,9 @@
 [![instagram badge](https://img.shields.io/badge/instagram-@emmanwokoma-E1306C?style=flat&logo=instagram)](https://instagram.com/emmanwokoma)
 [![website badge](https://img.shields.io/badge/portfolio-enwokoma.github.io-blueviolet?style=flat)](https://enwokoma.github.io)
 
-
 I am a Software Developer open to collaborating.
+
+##
 
   💬 Ask me about anything
 
