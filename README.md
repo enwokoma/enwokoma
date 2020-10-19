@@ -57,4 +57,4 @@ I am a Software Developer open to collaborating.
 
 ⚡ <b>Fun fact</b> ⚡: 
 
-    I am a very friendly person. Yes! I am that guy 😜
+    I am a whole new vibe you would love 😜
