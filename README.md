@@ -20,7 +20,7 @@ I am a Software Developer open to collaborating.
 
 ##
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=enwokoma&show_icons=true&hide_border=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=enwokoma&count_private=true&show_icons=true&hide_border=false" />
 
 ##
  
