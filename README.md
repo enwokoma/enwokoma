@@ -6,8 +6,8 @@
 [![instagram badge](https://img.shields.io/badge/telegram-@nwokomaemmanuel-0088CC?style=flat&logo=telegram)](https://t.me/nwokomaemmanuel)
 [![website badge](https://img.shields.io/badge/portfolio-enwokoma.github.io-blueviolet?style=flat)](https://enwokoma.github.io)
 
-I am a Technical Product Manager who can also program in JAVA and Kotlin for developing Android Applications. 
-I am open to collaborating.
+I am a Technical Product Manager who can also write code in Kotlin or Java for developing Android apps. 
+<br>I am open to collaborating.
 
 ##
 
@@ -15,7 +15,10 @@ I am open to collaborating.
 
   - 🔭 My role, defines the product vision, strategy, and roadmap.
   - 💸 As a Product Manager, I primarily gather, manage, and prioritize market/customer requirements.
-  - 💸 I actively work closely with engineering, sales, marketing, and support to ensure business case and customer satisfaction goals are met.
+  - 💸 I actively work closely with engineering teams.
+  - 💸 I actively work closely with sales teams.
+  - 💸 I actively work closely with marketing teams.
+  - 💸 I support to ensure that the business case and customer satisfaction goals are met.
   - 💸 Can I write code? Of course yes! I can develop native Android apps in either Kotlin or JAVA.
   - 🔭 I am currently working on some mobile and web projects.
 
