@@ -6,17 +6,18 @@
 [![instagram badge](https://img.shields.io/badge/telegram-@nwokomaemmanuel-0088CC?style=flat&logo=telegram)](https://t.me/nwokomaemmanuel)
 [![website badge](https://img.shields.io/badge/portfolio-enwokoma.github.io-blueviolet?style=flat)](https://enwokoma.github.io)
 
-I am a Software Developer open to collaborating.
+I am a Technical Product Manager who can also program in JAVA and Kotlin for developing Android Applications. 
+I am open to collaborating.
 
 ##
 
   💬 Ask me about anything
 
-  - 🔭 I’m currently working on some mobile and web projects.
-  - 💸 I primarily use PHP and JS for my web development projects.
-  - 💸 I preferably use Flutter for my mobile app development projects.
-  - 💸 For native Android? I primarily use Kotlin and JAVA for native Android app development.
-  - 🔭 I’m currently working to learn advanced android skills
+  - 🔭 My role, defines the product vision, strategy, and roadmap.
+  - 💸 As a Product Manager, I primarily gather, manage, and prioritize market/customer requirements.
+  - 💸 I actively work closely with engineering, sales, marketing, and support to ensure business case and customer satisfaction goals are met.
+  - 💸 Can I write code? Of course yes! I can develop native Android apps in either Kotlin or JAVA.
+  - 🔭 I am currently working on some mobile and web projects.
 
 ##
 
